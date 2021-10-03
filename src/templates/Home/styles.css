@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  background: #eee;
+  padding: 30px;
+}
+
+.button-container {
+  display: flex;
+  min-height: 5rem;
+  align-items: flex-end
+}
+
+.search-container {
+  margin-bottom: 4rem
+}
+
+.search-container h1 {
+  margin-bottom: 2rem;
+}
