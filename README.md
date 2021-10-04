@@ -1,6 +1,6 @@
 # First reactJS course project 
 
-This project was developmented with reactJs
+This project was developmented with reactJs.\
 Link: https://suspicious-ptolemy-9c3620.netlify.app/
 
 ## Available Scripts
