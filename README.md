@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# First reactJS course project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developmented with reactJs
+Link: https://suspicious-ptolemy-9c3620.netlify.app/
 
 ## Available Scripts
 
