@@ -1,17 +1,19 @@
-import { Component } from "react";
-import "./styles.css";
-import { loadPosts } from "../../utils/load-posts";
-import { Posts } from "../../components/Posts";
-import { Button } from "../../components/Button";
-import { TextInput } from "../../components/TextInput";
+// import { React, useEffect, useState, useCallback } from "react";
+import './styles.css';
+import { loadPosts } from '../../utils/load-posts';
+import { Posts } from '../../components/Posts';
+import { Button } from '../../components/Button';
+import { TextInput } from '../../components/TextInput';
+import { Component } from 'react';
 
-class Home extends Component {
+//Class
+export class Home extends Component {
   state = {
     posts: [],
     allPosts: [],
     page: 0,
     postsPerPage: 10,
-    searchValue: "",
+    searchValue: '',
   };
 
   //executado 1x após o componente ser montado na tela
